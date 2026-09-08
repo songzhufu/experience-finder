@@ -1,0 +1,8 @@
+{
+  "companies": ["字节跳动", "阿里巴巴", "腾讯", "美团"],
+  "roles": ["后端开发", "算法", "前端"],
+  "recruitment_types": ["秋招", "暑期实习"],
+  "keywords": ["面经", "一面", "二面"],
+  "max_per_keyword": 10,
+  "formats": ["md", "txt"]
+}

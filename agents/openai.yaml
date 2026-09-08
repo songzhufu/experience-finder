@@ -1,0 +1,4 @@
+interface:
+  display_name: "Xiaohongshu Interview Research"
+  short_description: "Collect and organize Xiaohongshu interview experience notes."
+  default_prompt: "Collect Xiaohongshu job interview experience notes for selected companies and roles, then generate grouped Markdown summaries."
